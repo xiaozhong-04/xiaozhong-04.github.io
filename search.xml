@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>小钟</title>
+    <url>/2020/01/03/%E5%B0%8F%E9%92%9F/</url>
+    <content><![CDATA[<!-- 标题 -->
+<h1 id="小钟同学"><a href="#小钟同学" class="headerlink" title="小钟同学"></a>小钟同学</h1><h2 id="第一篇文章哦"><a href="#第一篇文章哦" class="headerlink" title="第一篇文章哦"></a>第一篇文章哦</h2><h3 id="这个是三级标题哦"><a href="#这个是三级标题哦" class="headerlink" title="这个是三级标题哦"></a>这个是三级标题哦</h3><!-- 设置阅读全文 -->
+<a id="more"></a>
+
+<!-- 列表 -->
+<ul>
+<li>列表1</li>
+<li>列表2<br>  a 子列表哦<br>  b 子列表哈</li>
+<li>列表3</li>
+</ul>
+<!-- 虚线 -->
+<hr>
+<hr>
+<!-- 字体加行线 -->
+<!-- 小钟同学
+------- -->
+
+<!-- 点击链接 -->
+<p><a href="http://mackxin.com/nav.html" target="_blank" rel="noopener">馨客栈导航</a></p>
+<!-- 插入一张图片 -->
+<p><img src="http://file02.16sucai.com/d/file/2014/0704/e53c868ee9e8e7b28c424b56afe2066d.jpg" alt="馨客栈"></p>
+<!-- 斜体 -->
+<p><em>字体是斜线哦</em></p>
+<!-- 加粗 -->
+<p><strong>字体是不是加粗了呢</strong></p>
+<!-- 单行代码块 -->
+<p><code>&lt;html&gt;&lt;/html&gt;</code></p>
+<!-- 多行代码块 -->
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;html&gt;</span><br><span class="line">    &lt;head&gt;</span><br><span class="line">        &lt;tltie&gt;我是标题哦&lt;&#x2F;title&gt;</span><br><span class="line">    &lt;&#x2F;head&gt;</span><br><span class="line">    &lt;body&gt;&lt;&#x2F;body&gt;</span><br><span class="line">&lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure>
+
+<!-- 引用 -->
+<blockquote>
+<p>我是内容是引用的哦</p>
+<blockquote>
+<p>我是二级引用哦</p>
+</blockquote>
+</blockquote>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/01/03/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
